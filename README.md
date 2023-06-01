@@ -39,7 +39,7 @@ This is a practise API testing with the help of demo DMoney API. I have generate
 [https://documenter.getpostman.com/view/23351657/2s8ZDbX1VA](https://documenter.getpostman.com/view/17855925/2s93mBvJ9S)
 
 ### Screenshot of Newman Report
-https://drive.google.com/file/d/1rVGR5ycQRgaKmUXZ8ZS4FIHpix9VjAT-/view?usp=drive_link
+https://drive.google.com/file/d/1BzgkxPLJlCqNCgZ5KxSNJPl7wr2MbW9S/view?usp=sharing
 
 
 
